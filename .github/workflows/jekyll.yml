@@ -2,13 +2,15 @@ name: Build and Deploy
 on:
   push:
     branches: [main]
+
+permissions:
+  contents: write  # Required for pushing to protected branches
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Required for pushing to protected branches
-      pages: write
-      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-ruby@v1
