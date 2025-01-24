@@ -24,3 +24,5 @@ I am a Research Scientist at Meta. My research interests span machine learning, 
 Before joining Meta, I completed my Ph.D. at Northwestern University.
 
 [Download CV](/assets/pdf/fzy_cv.pdf) 
+
+This website is created by Cursor AI with Claude 3.5. 
