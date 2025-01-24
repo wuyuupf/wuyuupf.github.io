@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-23T19:07:18-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a post with image galleries</title><link href="http://localhost:4000/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-03T17:59:00-08:00</published><updated>2024-12-03T17:59:00-08:00</updated><id>http://localhost:4000/blog/2024/photo-gallery</id><content type="html" xml:base="http://localhost:4000/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-23T19:09:07-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a post with image galleries</title><link href="http://localhost:4000/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-03T17:59:00-08:00</published><updated>2024-12-03T17:59:00-08:00</updated><id>http://localhost:4000/blog/2024/photo-gallery</id><content type="html" xml:base="http://localhost:4000/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
 
 <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2>
 
@@ -90,7 +90,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="144c8f1f-05c6-4d31-bc7f-c39ef13fd0f3" data-name="log">
+<ul id="log" class="tab" data-tab="f6b9d76e-3e48-4ac1-9c3d-203af8f56f29" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -105,7 +105,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="144c8f1f-05c6-4d31-bc7f-c39ef13fd0f3" data-name="log">
+<ul class="tab-content" id="f6b9d76e-3e48-4ac1-9c3d-203af8f56f29" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -129,7 +129,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="1101b8b2-b7a2-4aac-9926-a7c13894171b" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="82b44e14-f47b-4e6d-9b91-d5a13eef22e7" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -140,7 +140,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="1101b8b2-b7a2-4aac-9926-a7c13894171b" data-name="data-struct">
+<ul class="tab-content" id="82b44e14-f47b-4e6d-9b91-d5a13eef22e7" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -162,7 +162,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="f1c18bfc-4628-440b-90f4-00e63c3a335e" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="c849aa13-27bb-475d-820b-c1d289e6a5c1" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -177,7 +177,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="f1c18bfc-4628-440b-90f4-00e63c3a335e" data-name="something-else">
+<ul class="tab-content" id="c849aa13-27bb-475d-820b-c1d289e6a5c1" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
