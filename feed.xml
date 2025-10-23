@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://wuyuupf.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wuyuupf.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-10-23T07:01:50+00:00</updated><id>https://wuyuupf.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a post with image galleries</title><link href="https://wuyuupf.github.io/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://wuyuupf.github.io/blog/2024/photo-gallery</id><content type="html" xml:base="https://wuyuupf.github.io/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://wuyuupf.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wuyuupf.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-10-23T07:04:35+00:00</updated><id>https://wuyuupf.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a post with image galleries</title><link href="https://wuyuupf.github.io/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://wuyuupf.github.io/blog/2024/photo-gallery</id><content type="html" xml:base="https://wuyuupf.github.io/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
 
 <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2>
 
@@ -90,7 +90,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="87f0a739-3c9e-4c0c-adc5-9edf4dde68ce" data-name="log">
+<ul id="log" class="tab" data-tab="959751b1-e0d8-48ff-bd06-72e54aecc11f" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -105,7 +105,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="87f0a739-3c9e-4c0c-adc5-9edf4dde68ce" data-name="log">
+<ul class="tab-content" id="959751b1-e0d8-48ff-bd06-72e54aecc11f" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -129,7 +129,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="04eeddfd-4ad4-4ed0-bc46-ce64de37bd07" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="d6445a6b-462a-4db8-9ba1-14078f52661d" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -140,7 +140,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="04eeddfd-4ad4-4ed0-bc46-ce64de37bd07" data-name="data-struct">
+<ul class="tab-content" id="d6445a6b-462a-4db8-9ba1-14078f52661d" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -162,7 +162,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="9c1d55fc-8b56-4f33-8ddc-fff7535e7488" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="8bfdc0ed-44f1-4ffa-b3c4-f8ead43de988" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -177,7 +177,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="9c1d55fc-8b56-4f33-8ddc-fff7535e7488" data-name="something-else">
+<ul class="tab-content" id="8bfdc0ed-44f1-4ffa-b3c4-f8ead43de988" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
