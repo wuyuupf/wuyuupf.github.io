@@ -44,11 +44,6 @@ const About = () => {
           />
         </div>
         <div className="profile-content">
-          <div className="email-address">
-            <a href="mailto:zuyue.fu@gmail.com">
-              <EmailIcon /> zuyue.fu@gmail.com
-            </a>
-          </div>
           <div className="bio">
             <p>
               I am a Research Scientist at Meta, where I work on large language models,
@@ -65,6 +60,9 @@ const About = () => {
               </a>, where my research focused on theoretical reinforcement learning. Prior to that,
               I completed my B.S. in Mathematics at Zhiyuan Honors Program, Shanghai Jiao Tong University.
             </p>
+          </div>
+          <div className="email-address">
+            <EmailIcon /> zuyue.fu /æt/ gmail.com
           </div>
           <div className="contact-links">
             <a href="https://www.linkedin.com/in/zuyue-fu-32544885/" target="_blank" rel="noopener noreferrer">

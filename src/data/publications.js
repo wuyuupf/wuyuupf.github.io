@@ -29,7 +29,7 @@ export const publicationsData = [
   },
   {
     title: "Offline reinforcement learning with instrumental variables in confounded markov decision processes",
-    authors: "<em>Zuyue Fu</em>, Zhengling Qi, Zhaoran Wang, Zhuoran Yang, Yanxun Xu, Michael R Kosorok",
+    authors: "<em>Zuyue Fu</em>, Zhengling Qi, Zhaoran Wang, Zhuoran Yang, Yanxun Xu, Michael R. Kosorok",
     venue: "arXiv preprint arXiv:2209.08666",
     year: 2022,
     link: "https://arxiv.org/abs/2209.08666"

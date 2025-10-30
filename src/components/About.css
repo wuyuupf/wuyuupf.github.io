@@ -31,7 +31,10 @@
 }
 
 .email-address {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
 }
 
 .email-address a {
@@ -58,7 +61,7 @@
 .contact-links {
   display: flex;
   gap: 1.5rem;
-  margin-top: 1.5rem;
+  margin-top: 0;
   flex-wrap: wrap;
 }
 
