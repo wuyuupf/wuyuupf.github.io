@@ -1,0 +1,94 @@
+.about-section {
+  padding: 3rem 0 1rem 0;
+}
+
+.about-section .section-title {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.profile-section {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+.profile-image {
+  flex-shrink: 0;
+}
+
+.profile-image img {
+  width: 210px;
+  height: 270px;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+.profile-content {
+  flex: 1;
+}
+
+.email-address {
+  margin-bottom: 1.5rem;
+}
+
+.email-address a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.email-address svg {
+  flex-shrink: 0;
+}
+
+.bio {
+  margin-bottom: 1.5rem;
+}
+
+.bio p {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+.contact-links {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.contact-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.contact-links svg {
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .profile-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-image img {
+    width: 160px;
+    height: 205px;
+  }
+
+  .profile-content h1 {
+    font-size: 1.5rem;
+  }
+
+  .contact-links {
+    justify-content: center;
+  }
+}
